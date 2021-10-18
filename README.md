@@ -1,1 +1,1 @@
-# Desafio25 - Cookies, Session y Storage II
+# Cookies, Session y Storage II
